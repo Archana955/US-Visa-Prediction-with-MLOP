@@ -11,3 +11,8 @@
  '''
  # MLOPS Tool:
  MLOPS Tool:https://www.evidently.com
+
+ # install requirement.txt
+ '''bash
+ pip install -r requirement.txt
+ '''
