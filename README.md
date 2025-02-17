@@ -7,8 +7,6 @@
  '''
 
  '''bash
- source /c/Users/anaconda3/etc/profile.d/conda.sh
- '''
- '''bash
  conda activate visa
  '''
+ # 
