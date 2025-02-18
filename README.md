@@ -16,3 +16,14 @@
  '''bash
  pip install -r requirement.txt
  '''
+    # Git commands
+
+    '''bash
+    git add .
+
+ git commit -m "updated"
+
+ git push origin main
+ '''
+ # mongodb:
+ MongoDB:https://account.mongodb.com/account/login
